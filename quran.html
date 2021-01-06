@@ -1,0 +1,88 @@
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+  	<base href="https://mhankbarbars.herokuapp.com">
+  <title>Zhirrr - API</title>
+  <link href="https://indrijunanda.github.io/RuangAdmin/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+  <link href="https://indrijunanda.github.io/RuangAdmin/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+  <link href="https://indrijunanda.github.io/RuangAdmin/css/ruang-admin.min.css" rel="stylesheet">
+  <meta property="og:title" content="Rest API Gratis">
+<meta property="og:description" content="API Gratis">
+<meta property="og:image" content="https://www.cloudways.com/blog/wp-content/uploads/Getting-Started-With-Magento-2-Rest-API-Banner.jpg">
+<meta property="og:url" content="index.html">
+
+  <link rel="stylesheet"
+      href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/styles/androidstudio.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/highlight.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+  
+</head>
+
+<body id="page-top">
+  <div id="wrapper" >
+  	
+    <div id="content-wrapper" class="d-flex flex-column">
+      <div id="content">
+        
+<div class="my-2"></div>
+<a class="btn btn-success btn-icon-split btn-sm" href="#">
+<span class="icon text-white-50">
+<i class="fas fa-check"></i>
+</span>
+<span class="text">Parameters : </span>
+</a>
+<pre><code class="json">
+https://alquran-apiii.vercel.app/surah  <== Menampilkan Data List Surah Dalam Al Quran + Tafsir Per Surah Nya
+
+https://alquran-apiii.vercel.app/surah/5  <== Menampilkan Data Surah Al Quran Berdasarkan Nomor Surah + Tafsir + Audio
+
+https://alquran-apiii.vercel.app/surah/2/255  <== Menampilkan Data Surah Al Quran Berdasarkan Surah Dan Nomor Ayat + Tafsir + Audio
+       </code></pre>
+<div class="my-2"></div>
+<a class="btn btn-success btn-icon-split btn-sm" href="#">
+<span class="icon text-white-50">
+<i class="fas fa-check"></i>
+</span>
+<span class="text">Example Results : </span>
+</a>
+<pre><code class="json">
+{"code":200,"status":"OK.","message":"Success fetching all surah.","data":[{"number":1,"sequence":5,"numberOfVerses":7,"name":{"short":"الفاتحة","long":"سُورَةُ ٱلْفَاتِحَةِ","transliteration":{"en":"Al-Faatiha","id":"Al-Fatihah"},"translation":{"en":"The Opening","id":"Pembukaan"}},"revelation":{"arab":"مكة","en":"Meccan","id":"Makkiyyah"},"tafsir":{"id":"Surat Al Faatihah (Pembukaan) yang diturunkan di Mekah dan terdiri dari 7 ayat adalah surat yang pertama-tama diturunkan dengan lengkap  diantara surat-surat yang ada dalam Al Quran dan termasuk golongan surat Makkiyyah. Surat ini disebut Al Faatihah (Pembukaan), karena dengan surat inilah dibuka dan dimulainya Al Quran. Dinamakan Ummul Quran (induk Al Quran) atau Ummul Kitaab (induk Al Kitaab) karena dia merupakan induk dari semua isi Al Quran, dan karena itu diwajibkan membacanya pada tiap-tiap sembahyang. Dinamakan pula As Sab'ul matsaany (tujuh yang berulang-ulang) karena ayatnya tujuh dan dibaca berulang-ulang dalam sholat."}}
+       </code></pre>
+</div>
+</div>
+</div>
+      <!-- Footer -->
+      <footer class="sticky-footer bg-white">
+        <div class="container my-auto">
+          <div class="copyright text-center my-auto">
+            <span>Copyright &copy; <script> 
+
+document.write(new Date().getFullYear()); 
+</script> -
+              <b><a href="https://github.com/Zhirrr" target="_blank">Zhirrr</a></b>
+            </span>
+          </div>
+        </div>
+      </footer>
+      <!-- Footer -->
+    </div>
+  </div>
+
+  <!-- Scroll to top -->
+  <a class="scroll-to-top rounded" href="#page-top">
+    <i class="fas fa-angle-up"></i>
+  </a>
+
+  <script src="https://indrijunanda.github.io/RuangAdmin/vendor/jquery/jquery.min.js"></script>
+  <script src="https://indrijunanda.github.io/RuangAdmin/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="https://indrijunanda.github.io/RuangAdmin/vendor/jquery-easing/jquery.easing.min.js"></script>
+  <script src="https://indrijunanda.github.io/RuangAdmin/js/ruang-admin.min.js"></script>
+<script> 
+  
+</body>
+
+</html>
