@@ -1,44 +1,37 @@
-# RuangAdmin
+<div align="center">
+ 
+# Template Web - Zhirrr's API
+[![CodeFactor](https://www.codefactor.io/repository/github/ibnusyawall/ostch/badge/master)](https://www.codefactor.io/repository/github/ibnusyawall/ostch/overview/master)
+<details>
+ <summary>🥟 Help me!</summary>
+</details>
+</div>
 
-RuangAdmin - Free Admin Control Panel Themes Based on Bootstrap 4
-
--------------------
-
-**RuangAdmin** is responsive admin template. Based on Bootstrap 4 Framework. Highly customizable and easy to use. 
-
-**You can review it on [RuangAdmin - Demo](https://indrijunanda.github.io/RuangAdmin/)**
-
-!["RuangAdmin Screenshot"](https://indrijunanda.github.io/RuangAdmin/img/screenshot/ss2.png "RuangAdmin Screenshot")
-
-## Contribution 
-
-Here is how : 
-
-- Fork the repository
-- Clone with ```git clone https://github.com/indrijunanda/RuangAdmin.git```
-- Or Download zip
-
-
-## Integrated
-
-- **[CodeIgniter](https://github.com/Codeigniter-Template/Ruang-Admin-Template)** by Codeigniter Template
-- **[Laravel](https://github.com/putralangkat97/ruang-admin-laravel-6)** by putralangkat97
-
-
-## License
-
-RuangAdmin is an open source and licensed under **[MIT](http://opensource.org/licenses/MIT)**
-
-
-
--------------------
-### Cheers Up!
-
-*Happy Developing and Learning* 💪
-
-
-
-Regards 😁😁
-
-
-
+### Our Features
+```
+ - Facebook Video Downloader
+ - Info Covid 19 Dunia
+ - Info Covid 19 Indonesia
+ ++++++++++++++++++++
+ - Qur'an API
+ - Hadits API
+ - Doa Tahlil API
+ - Asmaul Husna API
+ - Doa Harian API
+ - Ayat Kursi API
+ - Kisah 25 Nabi API
+ - Niat Shalat API
+ - Bacaan Shalat API
+ ++++++++++++++++++++
+ - Wallpaper Technology API
+ - Wallpaper Programming API
+ - Wallpaper CyberSpace API
+ - Wallpaper Muslim API
+ - Wallpaper Mountain View API
+ ++++++++++++++++++++
+- Unofficial Github API
+- KodePos API
+- News API
+```
+### Source Code
+Mau Source Code Nya? DM Aja Yak Di Instagram Gw !
