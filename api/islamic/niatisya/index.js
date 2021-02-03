@@ -1,6 +1,6 @@
 const path = require('path')
 const fs = require('fs').promises
-const fileJson = path.join(__dirname, '..', '..', 'data', 'NiatIsya.json')
+const fileJson = path.join(__dirname, '..', '..', '..', 'data', 'NiatIsya.json')
 
 module.exports = async (_, res) => {
     const data = await fs.readFile(fileJson, 'utf-8')
