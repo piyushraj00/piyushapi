@@ -36,4 +36,4 @@
 - News API
 ```
 ### Source Code
-Mau Source Code Nya? DM Aja Yak Di Instagram Gw !
+Mau Source Code Nya? Code Sendiri Lah ! Minta Mulu !
