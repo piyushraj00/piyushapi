@@ -12,6 +12,7 @@
 ### Our Features
 ```
  - Facebook Video Downloader
+ - Tiktok Video Downloader
  - Info Covid 19 Dunia
  - Info Covid 19 Indonesia
  ++++++++++++++++++++
@@ -34,6 +35,8 @@
 - Unofficial Github API
 - KodePos API
 - News API
+- KBBI Api
+- Hilih Generator
 ```
 ### Source Code
 Mau Source Code Nya? Code Sendiri Lah ! Minta Mulu !
