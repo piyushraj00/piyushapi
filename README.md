@@ -37,6 +37,7 @@
 - News API
 - KBBI Api
 - Hilih Generator
+- Fakename Generator
 ```
 ### Source Code
 Mau Source Code Nya? Code Sendiri Lah ! Minta Mulu !
