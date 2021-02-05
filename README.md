@@ -38,6 +38,7 @@
 - KBBI Api
 - Hilih Generator
 - Fakename Generator
+- Short Link Generator
 ```
 ### Source Code
 Mau Source Code Nya? Code Sendiri Lah ! Minta Mulu !
