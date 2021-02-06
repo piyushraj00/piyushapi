@@ -15,6 +15,7 @@
  - Tiktok Video Downloader
  - Info Covid 19 Dunia
  - Info Covid 19 Indonesia
+ - Info Gempa Indonesia
  ++++++++++++++++++++
  - Qur'an API
  - Hadits API
