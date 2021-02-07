@@ -13,6 +13,7 @@
 ```
  - Facebook Video Downloader
  - Tiktok Video Downloader
+ - Instagram Downloader
  - Info Covid 19 Dunia
  - Info Covid 19 Indonesia
  - Info Gempa Indonesia
