@@ -1,7 +1,7 @@
 {
   "name": "wallpaper-api",
   "version": "1.0.0",
-  "description": "Pilih Wallpaper Kesukaanmu !",
+  "description": "Piyush Api",
   "main": "index.js",
   "scripts": {
     "start:scrape": "node ./index.js"
@@ -12,7 +12,7 @@
     "anime",
     "waifu"
   ],
-  "author": "Zhirrr",
+  "author": "Piyush",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.21.0",
